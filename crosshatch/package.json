@@ -67,5 +67,8 @@
     "effect": "catalog:",
     "http-message-sig": "catalog:",
     "ox": "catalog:"
+  },
+  "dependencies": {
+    "@mysten/sui": "^2.35.0"
   }
 }
